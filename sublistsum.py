@@ -1,5 +1,5 @@
 # Given a list of N positive integers and a number S, find out and return a continuous sub-list sum of whose elements is S, return empty list if no such sub array exists.
-# Invokation: python3 findX.py
+# Invokation: python3 sublistsum.py
 
 
 from typing import List
